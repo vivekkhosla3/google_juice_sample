@@ -1,6 +1,6 @@
 package com.drawingapp.main;
 
-//**This is the main sample project **
+//**This is the main sample project works good **
 
 import com.drawingapp.requests.SquareRequest;
 import com.google.inject.Guice;
