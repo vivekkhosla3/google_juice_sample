@@ -1,5 +1,7 @@
 package com.drawingapp.main;
 
+//**This is the main sample project **
+
 import com.drawingapp.requests.SquareRequest;
 import com.google.inject.Guice;
 import com.google.inject.Injector;
